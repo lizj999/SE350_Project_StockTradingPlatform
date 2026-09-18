@@ -1,4 +1,4 @@
-# SE350_Project
+# SE350_Project: Stock Trading Platform
 
 
 ## Sprint 1 Checklist
